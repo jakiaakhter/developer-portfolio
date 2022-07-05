@@ -14,6 +14,7 @@ h1{
 .half-width{
     width: 50%;
     padding-left: 7%;
+    
 }
 .half-width img{
     width:70%;
@@ -37,4 +38,24 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experiences-item{
+box-shadow: 10px 10px 30px gray;
+width: 40%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+margin-top:100px;
+border-radius: 4px;
+
+}
+#baby-web-developer{
+    border-left:5px solid tomato ;
+}
+#full-stack-developer{
+    border-left:5px solid navy ;
+}
+footer p{
+    text-align: center;
+    margin-top: 60px;
 }
