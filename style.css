@@ -30,3 +30,11 @@ section{
     background-image:url(top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    margin-top: 120px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
